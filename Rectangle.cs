@@ -44,7 +44,7 @@ namespace C_Sharp_CW_перегрузки_операторов
                 Console.WriteLine();
             }
         }
-        //переопределение Tostring
+        //переопределение Tostring 1
         public override string ToString()
         {
             return $"Rectangle {Name}: a = {A}, b = {B}";
